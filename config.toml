@@ -56,7 +56,7 @@ recent_more_text = "more »"
 
 sections = [
     # { name = "posts", path = "/posts", is_external = false },
-    { name = "publications", path = "/publications", is_external = false },
+    { name = "research", path = "/research", is_external = false },
     # { name = "about", path = "/about", is_external = false },
     # { name = "github", path = "https://github.com/<your-username>", is_external = true },
 ]
@@ -64,7 +64,7 @@ blog_section_path = "/posts"
 
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/fneugebauer" },
-    { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+    { name = "Email", icon = "email", url = "mailto:s12kneug at uni - bonn dot de" },
 ]
 
 force_theme = false                   # false | "light" | "dark"

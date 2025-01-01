@@ -1,8 +1,0 @@
-[[project]]
-name = "lorem"
-desc = "Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et!"
-tags = ["nisi", "saepe"]
-links = [
-    {name = "github", url = "https://example.com"},
-    {name = "docs", url = "https://example.com"},
-]

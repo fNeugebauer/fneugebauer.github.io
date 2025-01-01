@@ -12,3 +12,5 @@ zola serve --open
 Latest Deployments: [link](https://github.com/fNeugebauer/fneugebauer.github.io/actions)
 
 Theme Documentation: [link](https://github.com/isunjn/serene/blob/main/USAGE.md)
+
+Add publication: upload [here](), update config [here]()
