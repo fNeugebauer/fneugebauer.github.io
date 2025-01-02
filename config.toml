@@ -50,9 +50,9 @@ display_id = true
 display_bio = true
 display_avatar = true
 
-math = "katex" 
-katex_enable = true
-katex_auto_render = true
+math =  true
+# katex_enable = true
+# katex_auto_render = true
 
 recent = false
 recent_max = 5
