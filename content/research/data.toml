@@ -1,9 +1,11 @@
 [[project]]
 name = "Computation of Combinatorial Torsions"
-desc = "The Reidemeister torsion is a well-known invariant in the field of algebraic topology, but is generally difficult to calculate in practice. In this thesis, we develop an algorithm that calculates the Reidemeister torsion of the geometric realization of a simplicial set. We implemented the algorithm in SageMath and used it to numerically calculate the Reidemeister torsions of the Poincare homology 3-sphere with respect to all irreducible complex representations of its fundamental group. Similar calculations were also per- formed for several lens and product spaces."
-tags = ["bachelors-thesis", "computational-topology", "reidemeister-torsion"]
+desc = """ We develop an algorithm that computes the Reidemeister Torsion of the geometric realization of a simplicial set X with respect to a provided representation of X’s fundamental group.
+The SageMath implementation of our algorithm enabled us to automatically compute the Reidemeister Torsions of the Poincar´e Homology 3-Sphere with respect to all irreducible representations of its fundamental group.
+This project summarizes the content of my bachelor thesis. The thesis was supervised by [Ulrich Bauer](https://ulrich-bauer.org/) and Nico Stucki."
+tags = ["bachelors-thesis", "computational-topology", "Reidemeister-torsion"]
 links = [
-    {name = "pdf", url = "/files/bachelor_thesis.pdf"},
+    {name = "pdf", url = "/files/Computation_of_Reidemeister_Torsion.pdf"},
 ]
 
 # [[project]]
