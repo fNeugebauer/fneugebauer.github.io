@@ -1,8 +1,8 @@
 [[project]]
 name = "Computation of Combinatorial Torsions"
-desc = """ We develop an algorithm that computes the Reidemeister Torsion of the geometric realization of a simplicial set X with respect to a provided representation of X’s fundamental group.
-The SageMath implementation of our algorithm enabled us to automatically compute the Reidemeister Torsions of the Poincar´e Homology 3-Sphere with respect to all irreducible representations of its fundamental group.
-This project summarizes the content of my bachelor thesis. The thesis was supervised by [Ulrich Bauer](https://ulrich-bauer.org/) and Nico Stucki."
+desc = " We develop an algorithm that computes the Reidemeister Torsion of the geometric realization of a simplicial set X with respect to a provided representation of X’s fundamental group."
+desc2 = "The SageMath implementation of our algorithm enabled us to automatically compute the Reidemeister Torsions of the Poincar´e Homology 3-Sphere with respect to all irreducible representations of its fundamental group."
+acknowledgement = "This project summarizes the content of my bachelor thesis. The thesis was supervised by [Ulrich Bauer](https://ulrich-bauer.org/) and Nico Stucki."
 tags = ["bachelors-thesis", "computational-topology", "Reidemeister-torsion"]
 links = [
     {name = "pdf", url = "/files/Computation_of_Reidemeister_Torsion.pdf"},
