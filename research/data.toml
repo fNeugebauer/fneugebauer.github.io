@@ -1,0 +1,17 @@
+[[project]]
+name = "Algorithmic Computation of Reidemeister Torsion"
+desc = "We develop an algorithm that computes the Reidemeister Torsion of the geometric realization of a simplicial set. We compute the Reidemeister Torsions of the Poincare Homology 3-Sphere."
+tags = ["bachelors-thesis", "computational-topology", "Reidemeister-torsion"]
+links = [
+    {name = "pdf", url = "/files/Computation_of_Reidemeister_Torsion.pdf"},
+]
+
+# [[project]]
+# name = "lorem"
+# desc = "Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et!"
+# tags = ["nisi", "saepe"]
+# links = [
+#     {name = "github", url = "https://example.com"},
+#     {name = "docs", url = "https://example.com"},
+# ]
+
