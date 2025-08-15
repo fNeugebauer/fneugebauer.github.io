@@ -1,6 +1,6 @@
 +++ title = "Seminars" subtitle = "Seminars & Reading Groups I Co-Organize" template = "prose.html"
 
-[extra] lang = "en" math = "katex" +++
+[extra] lang = "en" +++
 
 
 ### Winter Semester 25/26
