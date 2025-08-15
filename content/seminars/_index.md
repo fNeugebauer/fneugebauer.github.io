@@ -1,7 +1,7 @@
 +++ 
 title = "Seminars" 
-subtitle = "Seminars & Reading Groups I Co-Organize" 
-template = 'prose.html'
+subtitle = "Seminars and Reading Groups I Co-Organize" 
+template = "prose.html"
 
 [extra] 
 lang = "en"
