@@ -7,5 +7,5 @@ math = "katex"
 +++
 
 # About Me
-I'm a second year master student at Uni Bonn. My interest lie in homotopy theory and algebraic topology. Currently, I am writing my Master Thesis supervised by Markus Hausmann. I will start my PHD studies in Bonn in October. 
-
+Starting in October 2025, I will be a PhD student at the [University of Bonn](https://www.math.uni-bonn.de/ag/topo/) and the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/), supervised by [Markus Hausmann](https://www.math.uni-bonn.de/people/hausmann/).   
+I am particularly interested in equivariant and chromatic homotopy theory.
