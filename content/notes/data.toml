@@ -1,0 +1,25 @@
+[[project]]
+name = "Versions of Quillen's Theorem A"
+desc = "We explore enriched (e.g. R-linear) and specialized versions of Quillen's theorem A. These characterize cofinality but are easier to check."
+tags =["higher category theory", "cofinality"]
+links = [
+    {name = "pdf", url= "/files/specialized_Quillen_A.pdf"},
+]
+
+[[project]]
+name = "Setup of Motivic Homotopy Theory"
+desc = "Notes for a Seminar talk introducing Motivic Homotpy Theory. This covers everything up to Motivic Thom Spectra, the homotopy t-structure and Betti realization."
+tags = ["Motivic Homotopy Theory", "Seminar Talk", "Setup"]
+links = [
+    {name = "pdf", url = "/files/setup_of_motivic_homotopy_theory.pdf"},
+]
+
+# [[project]]
+# name = "lorem"
+# desc = "Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et!"
+# tags = ["nisi", "saepe"]
+# links = [
+#     {name = "github", url = "https://example.com"},
+#     {name = "docs", url = "https://example.com"},
+# ]
+
