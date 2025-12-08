@@ -1,5 +1,5 @@
 +++
-title = "Notes"
+title = "Surveys"
 description = "My notes and surveys."
 template = "projects.html"
 
