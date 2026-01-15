@@ -13,7 +13,13 @@ tags = ["Motivic Homotopy Theory", "Seminar Talk", "Setup"]
 links = [
     {name = "pdf", url = "/files/setup_of_motivic_homotopy_theory.pdf"},
 ]
-
+[[project]]
+name = "Six Functors on Etale Sheaves"
+desc = "Notes for a talk at the six functor seminar 2026 covering chapter 6-9 of Dustin Clausen's paper Duality and linearization for p-adic Lie groups."
+tags = ["Six Functors", "Seminar Talk"]
+links = [
+    {name = "pdf", url = "/files/six_ff_etale_sheaves.pdf"},
+]
 # [[project]]
 # name = "lorem"
 # desc = "Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et!"
