@@ -21,18 +21,16 @@ taxonomies = [{ name = "tags" }, { name = "categories" }]
 # feed_filenames = ["feed.xml"]         # The file name of feed, "feed.xml" / "atom.xml" / "rss.xml", read docs for more info
 
 [markdown]
-highlight_code = true
-highlight_theme = "css"
-highlighting.extra_themes = ["themes/serene/highlight_themes"]
-highlight_themes_css = [
-	{ theme = "serene-light", filename = "hl-light.css"},
-	{ theme = "serene-dark", filename = "hl-dark.css"},
-]
 render_emoji = true
 external_links_target_blank = false
 external_links_no_follow = true
 external_links_no_referrer = true
 smart_punctuation = false
+
+[markdown.highlighting]
+style = "class"
+light_theme = "github-light"
+dark_theme = "github-dark"
 
 [slugify]
 paths = "on"
@@ -42,20 +40,6 @@ anchors = "on"
 #=========================================================================================
 
 [extra]
-
-name = "Fabio Neugebauer"
-id = "fneugebauer"
-bio = "Adventures in Topology"
-avatar = "img/avatar.webp"
-
-display_id = true
-display_bio = true
-display_avatar = true
-
-recent = false
-recent_max = 5
-recent_more_text = "more »"
-
 sections = [
     # { name = "posts", path = "/posts", is_external = false },
     { name = "Research", path = "/research", is_external = false },
@@ -66,10 +50,8 @@ sections = [
 ]
 blog_section_path = "/posts"
 
-links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/fneugebauer" },
-    { name = "Email", icon = "email", url = "mailto:fabio at math dot uni - bonn dot de" },
-]
+back_link_text = "Back"
+
 
 force_theme = false                   # false | "light" | "dark"
 blog_categorized = true               # Whether to categorize blog posts

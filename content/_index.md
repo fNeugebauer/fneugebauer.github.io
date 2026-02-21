@@ -2,8 +2,26 @@
 template = 'home.html'
 
 [extra]
+name = "Fabio Neugebauer"
+id = "fneugebauer"
+bio = "Adventures in Topology"
+avatar = "img/avatar.webp"
+
+display_id = true
+display_bio = true
+display_avatar = true
+
+recent = false
+recent_max = 5
+recent_more_text = "more »"
+
 lang = 'en'
 math = "katex"
+
+links = [
+    { name = "GitHub", icon = "github", url = "https://github.com/fneugebauer" },
+    { name = "Email", icon = "email", url = "mailto:fabio at math dot uni - bonn dot de" },
+]
 +++
 
 # About Me
