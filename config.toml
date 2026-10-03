@@ -45,6 +45,9 @@ sections = [
     { name = "Research", path = "/research", is_external = false },
     { name = "Seminars", path = "/seminars", is_external = false },
     { name = "Notes", path = "/notes", is_external = false },
+    { name = "Conferences", path = "/conferences", is_external = false },
+    { name = "Teaching", path = "/teaching", is_external = false},
+    { name = "Talks", path = "/talks", is_external = false},
     # { name = "about", path = "/about", is_external = false },
     # { name = "github", path = "https://github.com/<your-username>", is_external = true },
 ]

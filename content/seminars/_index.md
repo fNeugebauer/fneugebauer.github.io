@@ -7,8 +7,10 @@ template = "prose.html"
 lang = "en"
 math = "katex"
 +++
-## Question Seminar (February 2026 - now)
-The question seminar, formelry known as [WIQI](https://sites.google.com/view/wiqiseminar/homepage), has been reactivated and will take place every Wednesday at 16:30 at the MPIM seminar room. See the [website](https://sites.google.com/view/question-seminar/) to learn more. The current organizers are [Bai](https://qingybai.github.io/), [Jonte](https://jonte-goedicke.com/), [Fernando](https://fernandoabellan.de/) and me.
+Seminars and reading groups I co-organize.
+
+## Question Seminar (February 2026 - August 2026)
+The question seminar, formerly known as [WIQI](https://sites.google.com/view/wiqiseminar/homepage), has been reactivated and will take place every Wednesday at 16:30 at the MPIM seminar room. See the [website](https://sites.google.com/view/question-seminar/) to learn more. The current organizers are [Bai](https://qingybai.github.io/), [Jonte](https://jonte-goedicke.com/), [Fernando](https://fernandoabellan.de/) and me.
 
 __________________________________________
 

@@ -7,6 +7,8 @@ template = "prose.html"
 lang = 'en'
 +++
 
+My notes and surveys. 
+
 # Versions of Quillen's Theorem A
 We explore enriched (e.g. R-linear) and specialized versions of Quillen's theorem A. These characterize cofinality but are easier to check.
 
